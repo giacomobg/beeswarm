@@ -1,0 +1,15 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+            "colour_palette": "#206095",
+            "sourceText":["Office for National Statistics"],
+            "xAxisLabel":"% hrte",
+            "xAxisScale":[0,65],
+            "heightperstrip":70,
+            "dotradius":3
+    },
+    "optional" : {
+            "mobileBreakpoint" : 610,
+            "x_num_ticks_sm_md" : [6,10]
+    }
+}
